@@ -1,4 +1,4 @@
-CUDA_VISIBLE_DEVICES=14,15 \
+CUDA_VISIBLE_DEVICES=0 \
 python examples/train_direction.py \
     -a direction_resnet50 \
     -b 32 \

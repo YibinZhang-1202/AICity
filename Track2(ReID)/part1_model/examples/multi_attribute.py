@@ -30,7 +30,7 @@ def get_data(name, split_id, data_dir, big_height, big_width, target_height, tar
         workers, combine_trainval):
     root = osp.join(data_dir, name)
 
-    dataset = datasets.create(name, root, split_id=split_id, download=False)
+    dataset = datasets.create(name, root, split_id=split_id, download=True)
 
     normalizer = T.Normalize(mean=[0.485, 0.456, 0.406],
                              std=[0.229, 0.224, 0.225])
