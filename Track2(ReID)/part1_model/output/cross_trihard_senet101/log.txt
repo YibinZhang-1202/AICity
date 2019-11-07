@@ -1,0 +1,11 @@
+Files already downloaded and verified
+Complete_Aicity_Car196 dataset loaded
+  subset   | # ids | # images
+  ---------------------------
+  train    |   651 |    11387
+  val      |   100 |     1549
+  trainval |   751 |    12936
+  query    |   750 |    16483
+  gallery  |   751 |    19281
+=> Loaded checkpoint './pretrain_models/se_resnext101_32x4d-3b2fe3d8.pth'
+Adam

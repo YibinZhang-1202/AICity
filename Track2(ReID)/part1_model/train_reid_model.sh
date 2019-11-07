@@ -1,4 +1,4 @@
-CUDA_VISIBLE_DEVICES=4,5,6,7 \
+CUDA_VISIBLE_DEVICES=0 \
 python examples/cross_trihard_with_crop.py \
     -a cross_trihard_senet101 \
     -b 128 \
