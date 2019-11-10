@@ -5,7 +5,7 @@ import os.path as osp
 import math
 import numpy as np
 import sys
-sys.path.append('/home/yibin/Documents/AICity-baidu/Track2(ReID)/part1_model/')
+sys.path.append('/home/yibin/AICity/Track2(ReID)/part1_model/')
 
 import torch
 from torch import nn
@@ -79,14 +79,18 @@ def get_real_test_data(query_dir, gallery_dir, target_height, target_width, batc
     ])  
     
     query_loader = DataLoader(
-        Flip_Preprocessor(data_dir=query_dir, is_flip=False,
-                     transform=test_transformer),
+        # Flip_Preprocessor(data_dir=query_dir, is_flip=False,
+        #              transform=test_transformer),
+        Flip_Preprocessor(data_dir=query_dir,
+                          transform=test_transformer),
         batch_size=batch_size, num_workers=workers,
         shuffle=False,pin_memory=True)
     
     gallery_loader = DataLoader(
-        Flip_Preprocessor(data_dir=gallery_dir, is_flip=False,
-                     transform=test_transformer),
+        # Flip_Preprocessor(data_dir=gallery_dir, is_flip=False,
+        #              transform=test_transformer),
+        Flip_Preprocessor(data_dir=gallery_dir,
+                          transform=test_transformer),
         batch_size=batch_size, num_workers=workers,
         shuffle=False,pin_memory=True)
 

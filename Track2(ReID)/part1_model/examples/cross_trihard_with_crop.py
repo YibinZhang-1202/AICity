@@ -5,7 +5,7 @@ import os.path as osp
 import math
 import numpy as np
 import sys
-sys.path.append('/home/yibin/Documents/AICity-baidu/Track2(ReID)/part1_model/')
+sys.path.append('/home/yibin/AICity/Track2(ReID)/part1_model/')
 
 import torch
 from torch import nn

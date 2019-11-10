@@ -1,0 +1,11 @@
+future==0.18.2
+h5py==2.10.0
+metric-learn==0.5.0
+numpy==1.16.5
+Pillow==6.2.1
+scikit-learn==0.20.4
+scipy==1.2.2
+six==1.13.0
+sklearn==0.0
+torch==1.0.0
+torchvision==0.4.2

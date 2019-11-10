@@ -1,13 +1,13 @@
-CUDA_VISIBLE_DEVICES=0 \
+CUDA_VISIBLE_DEVICES=1 \
 python examples/train_direction.py \
     -a direction_resnet50 \
-    -b 32 \
+    -b 16 \
     --weights ./pretrain_models/resnet50-19c8e357.pth \
     --logs-dir ./logs/direction_output/ \
     --optimizer 1 \
     --lr 1e-3 \
     --weight-decay 0.0005 \
-    --epochs 20 \
+    --epochs  100\
     --step_size 50 \
     --step_size2 70 \
     --step_size3 90 \

@@ -23,9 +23,10 @@ def extract_real_test_features(model, query_loader, gallery_loader, print_freq=1
 
     end = time.time()
     root_path = os.getcwd()
-    query_attribute_feature_pickle_file = open(root_path + '/reid/pickle_file/your_query_attribute_name.pkl', 'wb')
-    gallery_attribute_feature_pickle_file = open(root_path + '/reid/pickle_file/your_gallery_attribute_name.pkl', 'wb')
-    
+    query_attribute_feature_pickle_file = open(root_path + '/reid/pickle_file/query_new_attribute.pkl', 'wb')
+    gallery_attribute_feature_pickle_file = open(root_path + '/reid/pickle_file/gallery_new_attribute.pkl', 'wb')
+
+    print(len(enumerate(query_loader)))
     for i, (imgs, fnames) in enumerate(query_loader):
         data_time.update(time.time() - end)
 

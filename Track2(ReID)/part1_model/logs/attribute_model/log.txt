@@ -1,0 +1,12 @@
+type model
+Conv2d
+BatchNorm2d
+Conv2d
+BatchNorm2d
+Conv2d
+BatchNorm2d
+Conv2d
+BatchNorm2d
+Linear
+Linear
+=> Loaded checkpoint './logs/attribute_model/pass800.pth.tar'

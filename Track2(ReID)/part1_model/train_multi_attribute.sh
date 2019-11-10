@@ -1,7 +1,7 @@
-CUDA_VISIBLE_DEVICES=12,13 \
+CUDA_VISIBLE_DEVICES=1 \
 python examples/multi_attribute.py \
     -a multi_attribute_3_resnet50 \
-    -b 64 \
+    -b 16 \
     -d aicity_attribute \
     --combine-trainval \
     --weights ./pretrain_models/resnet50-19c8e357.pth \

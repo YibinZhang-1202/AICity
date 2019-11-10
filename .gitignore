@@ -3,6 +3,7 @@
 Track2(ReID)/part1_model/examples/data/
 Track2(ReID)/part1_model/pretrain_models/
 *.pth
+*.pth.tar
 venv/
 
 
