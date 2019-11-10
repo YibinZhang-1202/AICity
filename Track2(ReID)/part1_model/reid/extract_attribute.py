@@ -26,8 +26,7 @@ def extract_real_test_features(model, query_loader, gallery_loader, print_freq=1
     query_attribute_feature_pickle_file = open(root_path + '/reid/pickle_file/query_new_attribute.pkl', 'wb')
     gallery_attribute_feature_pickle_file = open(root_path + '/reid/pickle_file/gallery_new_attribute.pkl', 'wb')
 
-    print(len(enumerate(query_loader)))
-    for i, (imgs, fnames) in enumerate(query_loader):
+    for i, (imgs, flip_imgs, fnames) in enumerate(query_loader):
         data_time.update(time.time() - end)
 
         #color, car_type, roof, window, logo = extract_cnn_feature(model, imgs)
@@ -42,7 +41,7 @@ def extract_real_test_features(model, query_loader, gallery_loader, print_freq=1
 
         batch_time.update(time.time() - end)
         end = time.time()
-
+	
         if (i + 1) % print_freq == 0:
             print('Extract Features: [{}/{}]\t'
                   'Time {:.3f} ({:.3f})\t'
@@ -54,7 +53,7 @@ def extract_real_test_features(model, query_loader, gallery_loader, print_freq=1
     pickle.dump(query_attribute_features, query_attribute_feature_pickle_file)
     query_attribute_feature_pickle_file.close()
 
-    for i, (imgs, fnames) in enumerate(gallery_loader):
+    for i, (imgs, flip_imgs, fnames) in enumerate(gallery_loader):
         data_time.update(time.time() - end)
 
         #color, car_type, roof, window, logo = extract_cnn_feature(model, imgs)

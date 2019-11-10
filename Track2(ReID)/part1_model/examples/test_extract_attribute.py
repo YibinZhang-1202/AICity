@@ -77,7 +77,8 @@ def get_real_test_data(query_dir, gallery_dir, target_height, target_width, batc
         T.ToTensor(),
         normalizer,
     ])  
-    
+
+    # 1. (2, 3)
     query_loader = DataLoader(
         # Flip_Preprocessor(data_dir=query_dir, is_flip=False,
         #              transform=test_transformer),
@@ -85,6 +86,9 @@ def get_real_test_data(query_dir, gallery_dir, target_height, target_width, batc
                           transform=test_transformer),
         batch_size=batch_size, num_workers=workers,
         shuffle=False,pin_memory=True)
+    # print(query_loader)
+    # for ql in query_loader:
+    #     print(len(ql))
     
     gallery_loader = DataLoader(
         # Flip_Preprocessor(data_dir=gallery_dir, is_flip=False,

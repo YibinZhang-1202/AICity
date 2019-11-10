@@ -10,3 +10,2423 @@ BatchNorm2d
 Linear
 Linear
 => Loaded checkpoint './logs/attribute_model/pass800.pth.tar'
+test attribute
+Extract Features: [1/66]	Time 2.540 (2.540)	Data 0.292 (0.292)	
+test attribute
+Extract Features: [2/66]	Time 0.070 (1.305)	Data 0.000 (0.146)	
+test attribute
+Extract Features: [3/66]	Time 0.068 (0.893)	Data 0.000 (0.098)	
+test attribute
+Extract Features: [4/66]	Time 0.062 (0.685)	Data 0.000 (0.073)	
+test attribute
+Extract Features: [5/66]	Time 0.061 (0.560)	Data 0.000 (0.059)	
+test attribute
+Extract Features: [6/66]	Time 0.061 (0.477)	Data 0.000 (0.049)	
+test attribute
+Extract Features: [7/66]	Time 0.061 (0.418)	Data 0.000 (0.042)	
+test attribute
+Extract Features: [8/66]	Time 0.061 (0.373)	Data 0.000 (0.037)	
+test attribute
+Extract Features: [9/66]	Time 0.061 (0.338)	Data 0.000 (0.033)	
+test attribute
+Extract Features: [10/66]	Time 0.061 (0.311)	Data 0.000 (0.029)	
+test attribute
+Extract Features: [11/66]	Time 0.060 (0.288)	Data 0.000 (0.027)	
+test attribute
+Extract Features: [12/66]	Time 0.060 (0.269)	Data 0.000 (0.024)	
+test attribute
+Extract Features: [13/66]	Time 0.060 (0.253)	Data 0.000 (0.023)	
+test attribute
+Extract Features: [14/66]	Time 0.061 (0.239)	Data 0.000 (0.021)	
+test attribute
+Extract Features: [15/66]	Time 0.061 (0.227)	Data 0.000 (0.020)	
+test attribute
+Extract Features: [16/66]	Time 0.062 (0.217)	Data 0.000 (0.018)	
+test attribute
+Extract Features: [17/66]	Time 0.061 (0.208)	Data 0.000 (0.017)	
+test attribute
+Extract Features: [18/66]	Time 0.064 (0.200)	Data 0.000 (0.016)	
+test attribute
+Extract Features: [19/66]	Time 0.061 (0.193)	Data 0.000 (0.016)	
+test attribute
+Extract Features: [20/66]	Time 0.062 (0.186)	Data 0.000 (0.015)	
+test attribute
+Extract Features: [21/66]	Time 0.061 (0.180)	Data 0.000 (0.014)	
+test attribute
+Extract Features: [22/66]	Time 0.062 (0.175)	Data 0.000 (0.013)	
+test attribute
+Extract Features: [23/66]	Time 0.061 (0.170)	Data 0.000 (0.013)	
+test attribute
+Extract Features: [24/66]	Time 0.061 (0.165)	Data 0.000 (0.012)	
+test attribute
+Extract Features: [25/66]	Time 0.062 (0.161)	Data 0.000 (0.012)	
+test attribute
+Extract Features: [26/66]	Time 0.061 (0.157)	Data 0.000 (0.011)	
+test attribute
+Extract Features: [27/66]	Time 0.061 (0.154)	Data 0.000 (0.011)	
+test attribute
+Extract Features: [28/66]	Time 0.062 (0.150)	Data 0.000 (0.011)	
+test attribute
+Extract Features: [29/66]	Time 0.062 (0.147)	Data 0.000 (0.010)	
+test attribute
+Extract Features: [30/66]	Time 0.061 (0.144)	Data 0.000 (0.010)	
+test attribute
+Extract Features: [31/66]	Time 0.061 (0.142)	Data 0.000 (0.010)	
+test attribute
+Extract Features: [32/66]	Time 0.061 (0.139)	Data 0.000 (0.009)	
+test attribute
+Extract Features: [33/66]	Time 0.061 (0.137)	Data 0.000 (0.009)	
+test attribute
+Extract Features: [34/66]	Time 0.062 (0.135)	Data 0.000 (0.009)	
+test attribute
+Extract Features: [35/66]	Time 0.064 (0.133)	Data 0.000 (0.009)	
+test attribute
+Extract Features: [36/66]	Time 0.062 (0.131)	Data 0.000 (0.008)	
+test attribute
+Extract Features: [37/66]	Time 0.061 (0.129)	Data 0.000 (0.008)	
+test attribute
+Extract Features: [38/66]	Time 0.061 (0.127)	Data 0.000 (0.008)	
+test attribute
+Extract Features: [39/66]	Time 0.061 (0.125)	Data 0.000 (0.008)	
+test attribute
+Extract Features: [40/66]	Time 0.061 (0.124)	Data 0.000 (0.007)	
+test attribute
+Extract Features: [41/66]	Time 0.061 (0.122)	Data 0.000 (0.007)	
+test attribute
+Extract Features: [42/66]	Time 0.062 (0.121)	Data 0.000 (0.007)	
+test attribute
+Extract Features: [43/66]	Time 0.061 (0.119)	Data 0.000 (0.007)	
+test attribute
+Extract Features: [44/66]	Time 0.061 (0.118)	Data 0.000 (0.007)	
+test attribute
+Extract Features: [45/66]	Time 0.061 (0.117)	Data 0.000 (0.007)	
+test attribute
+Extract Features: [46/66]	Time 0.061 (0.116)	Data 0.000 (0.007)	
+test attribute
+Extract Features: [47/66]	Time 0.061 (0.114)	Data 0.000 (0.006)	
+test attribute
+Extract Features: [48/66]	Time 0.061 (0.113)	Data 0.000 (0.006)	
+test attribute
+Extract Features: [49/66]	Time 0.060 (0.112)	Data 0.000 (0.006)	
+test attribute
+Extract Features: [50/66]	Time 0.060 (0.111)	Data 0.000 (0.006)	
+test attribute
+Extract Features: [51/66]	Time 0.061 (0.110)	Data 0.000 (0.006)	
+test attribute
+Extract Features: [52/66]	Time 0.060 (0.109)	Data 0.000 (0.006)	
+test attribute
+Extract Features: [53/66]	Time 0.061 (0.108)	Data 0.000 (0.006)	
+test attribute
+Extract Features: [54/66]	Time 0.061 (0.107)	Data 0.000 (0.006)	
+test attribute
+Extract Features: [55/66]	Time 0.062 (0.107)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [56/66]	Time 0.061 (0.106)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [57/66]	Time 0.060 (0.105)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [58/66]	Time 0.061 (0.104)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [59/66]	Time 0.061 (0.103)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [60/66]	Time 0.061 (0.103)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [61/66]	Time 0.061 (0.102)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [62/66]	Time 0.062 (0.101)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [63/66]	Time 0.060 (0.101)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [64/66]	Time 0.061 (0.100)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [65/66]	Time 0.060 (0.100)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [66/66]	Time 1.935 (0.127)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [1/1144]	Time 0.496 (0.133)	Data 0.427 (0.011)	
+test attribute
+Extract Features: [2/1144]	Time 0.061 (0.132)	Data 0.000 (0.011)	
+test attribute
+Extract Features: [3/1144]	Time 0.061 (0.131)	Data 0.000 (0.011)	
+test attribute
+Extract Features: [4/1144]	Time 0.061 (0.130)	Data 0.000 (0.010)	
+test attribute
+Extract Features: [5/1144]	Time 0.062 (0.129)	Data 0.000 (0.010)	
+test attribute
+Extract Features: [6/1144]	Time 0.060 (0.128)	Data 0.000 (0.010)	
+test attribute
+Extract Features: [7/1144]	Time 0.061 (0.127)	Data 0.000 (0.010)	
+test attribute
+Extract Features: [8/1144]	Time 0.061 (0.126)	Data 0.000 (0.010)	
+test attribute
+Extract Features: [9/1144]	Time 0.061 (0.125)	Data 0.000 (0.010)	
+test attribute
+Extract Features: [10/1144]	Time 0.063 (0.124)	Data 0.000 (0.010)	
+test attribute
+Extract Features: [11/1144]	Time 0.061 (0.124)	Data 0.000 (0.009)	
+test attribute
+Extract Features: [12/1144]	Time 0.061 (0.123)	Data 0.000 (0.009)	
+test attribute
+Extract Features: [13/1144]	Time 0.062 (0.122)	Data 0.000 (0.009)	
+test attribute
+Extract Features: [14/1144]	Time 0.061 (0.121)	Data 0.000 (0.009)	
+test attribute
+Extract Features: [15/1144]	Time 0.061 (0.120)	Data 0.000 (0.009)	
+test attribute
+Extract Features: [16/1144]	Time 0.061 (0.120)	Data 0.000 (0.009)	
+test attribute
+Extract Features: [17/1144]	Time 0.062 (0.119)	Data 0.000 (0.009)	
+test attribute
+Extract Features: [18/1144]	Time 0.061 (0.118)	Data 0.000 (0.009)	
+test attribute
+Extract Features: [19/1144]	Time 0.061 (0.118)	Data 0.000 (0.009)	
+test attribute
+Extract Features: [20/1144]	Time 0.061 (0.117)	Data 0.000 (0.009)	
+test attribute
+Extract Features: [21/1144]	Time 0.062 (0.116)	Data 0.000 (0.008)	
+test attribute
+Extract Features: [22/1144]	Time 0.061 (0.116)	Data 0.000 (0.008)	
+test attribute
+Extract Features: [23/1144]	Time 0.061 (0.115)	Data 0.000 (0.008)	
+test attribute
+Extract Features: [24/1144]	Time 0.061 (0.115)	Data 0.000 (0.008)	
+test attribute
+Extract Features: [25/1144]	Time 0.060 (0.114)	Data 0.000 (0.008)	
+test attribute
+Extract Features: [26/1144]	Time 0.061 (0.113)	Data 0.000 (0.008)	
+test attribute
+Extract Features: [27/1144]	Time 0.061 (0.113)	Data 0.000 (0.008)	
+test attribute
+Extract Features: [28/1144]	Time 0.061 (0.112)	Data 0.000 (0.008)	
+test attribute
+Extract Features: [29/1144]	Time 0.061 (0.112)	Data 0.000 (0.008)	
+test attribute
+Extract Features: [30/1144]	Time 0.062 (0.111)	Data 0.000 (0.008)	
+test attribute
+Extract Features: [31/1144]	Time 0.060 (0.111)	Data 0.000 (0.008)	
+test attribute
+Extract Features: [32/1144]	Time 0.061 (0.110)	Data 0.000 (0.007)	
+test attribute
+Extract Features: [33/1144]	Time 0.061 (0.110)	Data 0.000 (0.007)	
+test attribute
+Extract Features: [34/1144]	Time 0.061 (0.109)	Data 0.000 (0.007)	
+test attribute
+Extract Features: [35/1144]	Time 0.061 (0.109)	Data 0.000 (0.007)	
+test attribute
+Extract Features: [36/1144]	Time 0.061 (0.108)	Data 0.000 (0.007)	
+test attribute
+Extract Features: [37/1144]	Time 0.061 (0.108)	Data 0.000 (0.007)	
+test attribute
+Extract Features: [38/1144]	Time 0.061 (0.107)	Data 0.000 (0.007)	
+test attribute
+Extract Features: [39/1144]	Time 0.061 (0.107)	Data 0.000 (0.007)	
+test attribute
+Extract Features: [40/1144]	Time 0.060 (0.106)	Data 0.000 (0.007)	
+test attribute
+Extract Features: [41/1144]	Time 0.060 (0.106)	Data 0.000 (0.007)	
+test attribute
+Extract Features: [42/1144]	Time 0.060 (0.106)	Data 0.000 (0.007)	
+test attribute
+Extract Features: [43/1144]	Time 0.061 (0.105)	Data 0.000 (0.007)	
+test attribute
+Extract Features: [44/1144]	Time 0.061 (0.105)	Data 0.000 (0.007)	
+test attribute
+Extract Features: [45/1144]	Time 0.060 (0.104)	Data 0.000 (0.007)	
+test attribute
+Extract Features: [46/1144]	Time 0.061 (0.104)	Data 0.000 (0.007)	
+test attribute
+Extract Features: [47/1144]	Time 0.061 (0.104)	Data 0.000 (0.007)	
+test attribute
+Extract Features: [48/1144]	Time 0.061 (0.103)	Data 0.000 (0.006)	
+test attribute
+Extract Features: [49/1144]	Time 0.061 (0.103)	Data 0.000 (0.006)	
+test attribute
+Extract Features: [50/1144]	Time 0.062 (0.103)	Data 0.000 (0.006)	
+test attribute
+Extract Features: [51/1144]	Time 0.062 (0.102)	Data 0.000 (0.006)	
+test attribute
+Extract Features: [52/1144]	Time 0.061 (0.102)	Data 0.000 (0.006)	
+test attribute
+Extract Features: [53/1144]	Time 0.062 (0.101)	Data 0.000 (0.006)	
+test attribute
+Extract Features: [54/1144]	Time 0.061 (0.101)	Data 0.000 (0.006)	
+test attribute
+Extract Features: [55/1144]	Time 0.061 (0.101)	Data 0.000 (0.006)	
+test attribute
+Extract Features: [56/1144]	Time 0.062 (0.100)	Data 0.000 (0.006)	
+test attribute
+Extract Features: [57/1144]	Time 0.062 (0.100)	Data 0.000 (0.006)	
+test attribute
+Extract Features: [58/1144]	Time 0.062 (0.100)	Data 0.000 (0.006)	
+test attribute
+Extract Features: [59/1144]	Time 0.061 (0.100)	Data 0.000 (0.006)	
+test attribute
+Extract Features: [60/1144]	Time 0.061 (0.099)	Data 0.000 (0.006)	
+test attribute
+Extract Features: [61/1144]	Time 0.061 (0.099)	Data 0.000 (0.006)	
+test attribute
+Extract Features: [62/1144]	Time 0.061 (0.099)	Data 0.000 (0.006)	
+test attribute
+Extract Features: [63/1144]	Time 0.061 (0.098)	Data 0.000 (0.006)	
+test attribute
+Extract Features: [64/1144]	Time 0.061 (0.098)	Data 0.000 (0.006)	
+test attribute
+Extract Features: [65/1144]	Time 0.061 (0.098)	Data 0.000 (0.006)	
+test attribute
+Extract Features: [66/1144]	Time 0.061 (0.098)	Data 0.000 (0.006)	
+test attribute
+Extract Features: [67/1144]	Time 0.061 (0.097)	Data 0.000 (0.006)	
+test attribute
+Extract Features: [68/1144]	Time 0.062 (0.097)	Data 0.000 (0.006)	
+test attribute
+Extract Features: [69/1144]	Time 0.062 (0.097)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [70/1144]	Time 0.062 (0.096)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [71/1144]	Time 0.061 (0.096)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [72/1144]	Time 0.060 (0.096)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [73/1144]	Time 0.060 (0.096)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [74/1144]	Time 0.061 (0.095)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [75/1144]	Time 0.061 (0.095)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [76/1144]	Time 0.063 (0.095)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [77/1144]	Time 0.061 (0.095)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [78/1144]	Time 0.060 (0.094)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [79/1144]	Time 0.061 (0.094)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [80/1144]	Time 0.061 (0.094)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [81/1144]	Time 0.061 (0.094)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [82/1144]	Time 0.061 (0.094)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [83/1144]	Time 0.061 (0.093)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [84/1144]	Time 0.060 (0.093)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [85/1144]	Time 0.061 (0.093)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [86/1144]	Time 0.061 (0.093)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [87/1144]	Time 0.061 (0.093)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [88/1144]	Time 0.060 (0.092)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [89/1144]	Time 0.063 (0.092)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [90/1144]	Time 0.061 (0.092)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [91/1144]	Time 0.060 (0.092)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [92/1144]	Time 0.060 (0.092)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [93/1144]	Time 0.060 (0.091)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [94/1144]	Time 0.061 (0.091)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [95/1144]	Time 0.061 (0.091)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [96/1144]	Time 0.063 (0.091)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [97/1144]	Time 0.061 (0.091)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [98/1144]	Time 0.061 (0.090)	Data 0.000 (0.005)	
+test attribute
+Extract Features: [99/1144]	Time 0.061 (0.090)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [100/1144]	Time 0.061 (0.090)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [101/1144]	Time 0.061 (0.090)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [102/1144]	Time 0.061 (0.090)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [103/1144]	Time 0.061 (0.090)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [104/1144]	Time 0.061 (0.089)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [105/1144]	Time 0.061 (0.089)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [106/1144]	Time 0.061 (0.089)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [107/1144]	Time 0.062 (0.089)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [108/1144]	Time 0.061 (0.089)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [109/1144]	Time 0.063 (0.089)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [110/1144]	Time 0.061 (0.088)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [111/1144]	Time 0.061 (0.088)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [112/1144]	Time 0.061 (0.088)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [113/1144]	Time 0.061 (0.088)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [114/1144]	Time 0.061 (0.088)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [115/1144]	Time 0.061 (0.088)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [116/1144]	Time 0.061 (0.088)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [117/1144]	Time 0.061 (0.087)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [118/1144]	Time 0.061 (0.087)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [119/1144]	Time 0.061 (0.087)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [120/1144]	Time 0.062 (0.087)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [121/1144]	Time 0.062 (0.087)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [122/1144]	Time 0.061 (0.087)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [123/1144]	Time 0.061 (0.087)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [124/1144]	Time 0.061 (0.086)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [125/1144]	Time 0.062 (0.086)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [126/1144]	Time 0.062 (0.086)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [127/1144]	Time 0.061 (0.086)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [128/1144]	Time 0.065 (0.086)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [129/1144]	Time 0.061 (0.086)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [130/1144]	Time 0.061 (0.086)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [131/1144]	Time 0.062 (0.086)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [132/1144]	Time 0.062 (0.085)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [133/1144]	Time 0.061 (0.085)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [134/1144]	Time 0.062 (0.085)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [135/1144]	Time 0.062 (0.085)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [136/1144]	Time 0.062 (0.085)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [137/1144]	Time 0.061 (0.085)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [138/1144]	Time 0.061 (0.085)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [139/1144]	Time 0.061 (0.085)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [140/1144]	Time 0.062 (0.085)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [141/1144]	Time 0.061 (0.084)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [142/1144]	Time 0.061 (0.084)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [143/1144]	Time 0.061 (0.084)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [144/1144]	Time 0.061 (0.084)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [145/1144]	Time 0.062 (0.084)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [146/1144]	Time 0.062 (0.084)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [147/1144]	Time 0.061 (0.084)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [148/1144]	Time 0.062 (0.084)	Data 0.000 (0.004)	
+test attribute
+Extract Features: [149/1144]	Time 0.061 (0.084)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [150/1144]	Time 0.061 (0.083)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [151/1144]	Time 0.061 (0.083)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [152/1144]	Time 0.061 (0.083)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [153/1144]	Time 0.061 (0.083)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [154/1144]	Time 0.062 (0.083)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [155/1144]	Time 0.062 (0.083)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [156/1144]	Time 0.061 (0.083)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [157/1144]	Time 0.061 (0.083)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [158/1144]	Time 0.062 (0.083)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [159/1144]	Time 0.062 (0.083)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [160/1144]	Time 0.062 (0.082)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [161/1144]	Time 0.062 (0.082)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [162/1144]	Time 0.062 (0.082)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [163/1144]	Time 0.061 (0.082)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [164/1144]	Time 0.062 (0.082)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [165/1144]	Time 0.062 (0.082)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [166/1144]	Time 0.061 (0.082)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [167/1144]	Time 0.062 (0.082)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [168/1144]	Time 0.062 (0.082)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [169/1144]	Time 0.061 (0.082)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [170/1144]	Time 0.061 (0.082)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [171/1144]	Time 0.061 (0.081)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [172/1144]	Time 0.061 (0.081)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [173/1144]	Time 0.062 (0.081)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [174/1144]	Time 0.062 (0.081)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [175/1144]	Time 0.060 (0.081)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [176/1144]	Time 0.062 (0.081)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [177/1144]	Time 0.061 (0.081)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [178/1144]	Time 0.061 (0.081)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [179/1144]	Time 0.062 (0.081)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [180/1144]	Time 0.061 (0.081)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [181/1144]	Time 0.061 (0.081)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [182/1144]	Time 0.061 (0.081)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [183/1144]	Time 0.061 (0.081)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [184/1144]	Time 0.061 (0.080)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [185/1144]	Time 0.061 (0.080)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [186/1144]	Time 0.061 (0.080)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [187/1144]	Time 0.065 (0.080)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [188/1144]	Time 0.062 (0.080)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [189/1144]	Time 0.062 (0.080)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [190/1144]	Time 0.061 (0.080)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [191/1144]	Time 0.062 (0.080)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [192/1144]	Time 0.061 (0.080)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [193/1144]	Time 0.062 (0.080)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [194/1144]	Time 0.061 (0.080)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [195/1144]	Time 0.061 (0.080)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [196/1144]	Time 0.061 (0.080)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [197/1144]	Time 0.062 (0.080)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [198/1144]	Time 0.062 (0.079)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [199/1144]	Time 0.062 (0.079)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [200/1144]	Time 0.061 (0.079)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [201/1144]	Time 0.062 (0.079)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [202/1144]	Time 0.062 (0.079)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [203/1144]	Time 0.061 (0.079)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [204/1144]	Time 0.061 (0.079)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [205/1144]	Time 0.061 (0.079)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [206/1144]	Time 0.061 (0.079)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [207/1144]	Time 0.062 (0.079)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [208/1144]	Time 0.062 (0.079)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [209/1144]	Time 0.062 (0.079)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [210/1144]	Time 0.061 (0.079)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [211/1144]	Time 0.062 (0.079)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [212/1144]	Time 0.061 (0.079)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [213/1144]	Time 0.062 (0.078)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [214/1144]	Time 0.062 (0.078)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [215/1144]	Time 0.061 (0.078)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [216/1144]	Time 0.062 (0.078)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [217/1144]	Time 0.062 (0.078)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [218/1144]	Time 0.061 (0.078)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [219/1144]	Time 0.062 (0.078)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [220/1144]	Time 0.061 (0.078)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [221/1144]	Time 0.061 (0.078)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [222/1144]	Time 0.061 (0.078)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [223/1144]	Time 0.062 (0.078)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [224/1144]	Time 0.061 (0.078)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [225/1144]	Time 0.063 (0.078)	Data 0.002 (0.003)	
+test attribute
+Extract Features: [226/1144]	Time 0.062 (0.078)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [227/1144]	Time 0.061 (0.078)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [228/1144]	Time 0.061 (0.078)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [229/1144]	Time 0.061 (0.078)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [230/1144]	Time 0.061 (0.078)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [231/1144]	Time 0.062 (0.077)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [232/1144]	Time 0.061 (0.077)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [233/1144]	Time 0.062 (0.077)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [234/1144]	Time 0.062 (0.077)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [235/1144]	Time 0.062 (0.077)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [236/1144]	Time 0.062 (0.077)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [237/1144]	Time 0.062 (0.077)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [238/1144]	Time 0.062 (0.077)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [239/1144]	Time 0.061 (0.077)	Data 0.000 (0.003)	
+test attribute
+Extract Features: [240/1144]	Time 0.061 (0.077)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [241/1144]	Time 0.062 (0.077)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [242/1144]	Time 0.062 (0.077)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [243/1144]	Time 0.062 (0.077)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [244/1144]	Time 0.061 (0.077)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [245/1144]	Time 0.062 (0.077)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [246/1144]	Time 0.063 (0.077)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [247/1144]	Time 0.062 (0.077)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [248/1144]	Time 0.062 (0.077)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [249/1144]	Time 0.061 (0.077)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [250/1144]	Time 0.063 (0.077)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [251/1144]	Time 0.062 (0.076)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [252/1144]	Time 0.065 (0.076)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [253/1144]	Time 0.061 (0.076)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [254/1144]	Time 0.061 (0.076)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [255/1144]	Time 0.062 (0.076)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [256/1144]	Time 0.061 (0.076)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [257/1144]	Time 0.061 (0.076)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [258/1144]	Time 0.062 (0.076)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [259/1144]	Time 0.061 (0.076)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [260/1144]	Time 0.061 (0.076)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [261/1144]	Time 0.061 (0.076)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [262/1144]	Time 0.062 (0.076)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [263/1144]	Time 0.061 (0.076)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [264/1144]	Time 0.062 (0.076)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [265/1144]	Time 0.063 (0.076)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [266/1144]	Time 0.062 (0.076)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [267/1144]	Time 0.062 (0.076)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [268/1144]	Time 0.062 (0.076)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [269/1144]	Time 0.062 (0.076)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [270/1144]	Time 0.061 (0.076)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [271/1144]	Time 0.062 (0.076)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [272/1144]	Time 0.062 (0.076)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [273/1144]	Time 0.061 (0.076)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [274/1144]	Time 0.062 (0.075)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [275/1144]	Time 0.062 (0.075)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [276/1144]	Time 0.061 (0.075)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [277/1144]	Time 0.062 (0.075)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [278/1144]	Time 0.062 (0.075)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [279/1144]	Time 0.062 (0.075)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [280/1144]	Time 0.062 (0.075)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [281/1144]	Time 0.062 (0.075)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [282/1144]	Time 0.062 (0.075)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [283/1144]	Time 0.061 (0.075)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [284/1144]	Time 0.061 (0.075)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [285/1144]	Time 0.061 (0.075)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [286/1144]	Time 0.061 (0.075)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [287/1144]	Time 0.061 (0.075)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [288/1144]	Time 0.061 (0.075)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [289/1144]	Time 0.061 (0.075)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [290/1144]	Time 0.061 (0.075)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [291/1144]	Time 0.063 (0.075)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [292/1144]	Time 0.061 (0.075)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [293/1144]	Time 0.062 (0.075)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [294/1144]	Time 0.062 (0.075)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [295/1144]	Time 0.061 (0.075)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [296/1144]	Time 0.062 (0.075)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [297/1144]	Time 0.062 (0.075)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [298/1144]	Time 0.062 (0.075)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [299/1144]	Time 0.062 (0.075)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [300/1144]	Time 0.062 (0.074)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [301/1144]	Time 0.061 (0.074)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [302/1144]	Time 0.062 (0.074)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [303/1144]	Time 0.062 (0.074)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [304/1144]	Time 0.062 (0.074)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [305/1144]	Time 0.061 (0.074)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [306/1144]	Time 0.061 (0.074)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [307/1144]	Time 0.061 (0.074)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [308/1144]	Time 0.062 (0.074)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [309/1144]	Time 0.061 (0.074)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [310/1144]	Time 0.061 (0.074)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [311/1144]	Time 0.062 (0.074)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [312/1144]	Time 0.061 (0.074)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [313/1144]	Time 0.061 (0.074)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [314/1144]	Time 0.061 (0.074)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [315/1144]	Time 0.061 (0.074)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [316/1144]	Time 0.061 (0.074)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [317/1144]	Time 0.061 (0.074)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [318/1144]	Time 0.061 (0.074)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [319/1144]	Time 0.061 (0.074)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [320/1144]	Time 0.061 (0.074)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [321/1144]	Time 0.061 (0.074)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [322/1144]	Time 0.061 (0.074)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [323/1144]	Time 0.062 (0.074)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [324/1144]	Time 0.063 (0.074)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [325/1144]	Time 0.062 (0.074)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [326/1144]	Time 0.061 (0.074)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [327/1144]	Time 0.062 (0.074)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [328/1144]	Time 0.062 (0.074)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [329/1144]	Time 0.062 (0.074)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [330/1144]	Time 0.063 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [331/1144]	Time 0.061 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [332/1144]	Time 0.062 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [333/1144]	Time 0.062 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [334/1144]	Time 0.061 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [335/1144]	Time 0.061 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [336/1144]	Time 0.062 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [337/1144]	Time 0.061 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [338/1144]	Time 0.062 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [339/1144]	Time 0.062 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [340/1144]	Time 0.062 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [341/1144]	Time 0.064 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [342/1144]	Time 0.063 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [343/1144]	Time 0.063 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [344/1144]	Time 0.062 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [345/1144]	Time 0.062 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [346/1144]	Time 0.062 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [347/1144]	Time 0.061 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [348/1144]	Time 0.062 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [349/1144]	Time 0.062 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [350/1144]	Time 0.063 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [351/1144]	Time 0.062 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [352/1144]	Time 0.061 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [353/1144]	Time 0.062 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [354/1144]	Time 0.062 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [355/1144]	Time 0.062 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [356/1144]	Time 0.062 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [357/1144]	Time 0.061 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [358/1144]	Time 0.061 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [359/1144]	Time 0.061 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [360/1144]	Time 0.061 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [361/1144]	Time 0.061 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [362/1144]	Time 0.062 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [363/1144]	Time 0.103 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [364/1144]	Time 0.061 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [365/1144]	Time 0.062 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [366/1144]	Time 0.061 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [367/1144]	Time 0.062 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [368/1144]	Time 0.068 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [369/1144]	Time 0.062 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [370/1144]	Time 0.062 (0.073)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [371/1144]	Time 0.061 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [372/1144]	Time 0.062 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [373/1144]	Time 0.062 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [374/1144]	Time 0.061 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [375/1144]	Time 0.061 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [376/1144]	Time 0.061 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [377/1144]	Time 0.062 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [378/1144]	Time 0.061 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [379/1144]	Time 0.061 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [380/1144]	Time 0.061 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [381/1144]	Time 0.062 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [382/1144]	Time 0.061 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [383/1144]	Time 0.062 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [384/1144]	Time 0.062 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [385/1144]	Time 0.062 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [386/1144]	Time 0.062 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [387/1144]	Time 0.062 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [388/1144]	Time 0.063 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [389/1144]	Time 0.062 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [390/1144]	Time 0.062 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [391/1144]	Time 0.062 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [392/1144]	Time 0.062 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [393/1144]	Time 0.062 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [394/1144]	Time 0.062 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [395/1144]	Time 0.062 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [396/1144]	Time 0.061 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [397/1144]	Time 0.062 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [398/1144]	Time 0.062 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [399/1144]	Time 0.061 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [400/1144]	Time 0.062 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [401/1144]	Time 0.062 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [402/1144]	Time 0.061 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [403/1144]	Time 0.062 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [404/1144]	Time 0.061 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [405/1144]	Time 0.062 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [406/1144]	Time 0.062 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [407/1144]	Time 0.062 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [408/1144]	Time 0.061 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [409/1144]	Time 0.062 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [410/1144]	Time 0.062 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [411/1144]	Time 0.063 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [412/1144]	Time 0.062 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [413/1144]	Time 0.062 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [414/1144]	Time 0.062 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [415/1144]	Time 0.061 (0.072)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [416/1144]	Time 0.062 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [417/1144]	Time 0.062 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [418/1144]	Time 0.061 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [419/1144]	Time 0.062 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [420/1144]	Time 0.063 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [421/1144]	Time 0.062 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [422/1144]	Time 0.062 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [423/1144]	Time 0.061 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [424/1144]	Time 0.061 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [425/1144]	Time 0.062 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [426/1144]	Time 0.062 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [427/1144]	Time 0.063 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [428/1144]	Time 0.062 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [429/1144]	Time 0.061 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [430/1144]	Time 0.061 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [431/1144]	Time 0.062 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [432/1144]	Time 0.069 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [433/1144]	Time 0.062 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [434/1144]	Time 0.062 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [435/1144]	Time 0.062 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [436/1144]	Time 0.062 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [437/1144]	Time 0.061 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [438/1144]	Time 0.062 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [439/1144]	Time 0.062 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [440/1144]	Time 0.063 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [441/1144]	Time 0.062 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [442/1144]	Time 0.062 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [443/1144]	Time 0.061 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [444/1144]	Time 0.062 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [445/1144]	Time 0.062 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [446/1144]	Time 0.063 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [447/1144]	Time 0.062 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [448/1144]	Time 0.062 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [449/1144]	Time 0.062 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [450/1144]	Time 0.062 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [451/1144]	Time 0.062 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [452/1144]	Time 0.061 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [453/1144]	Time 0.061 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [454/1144]	Time 0.061 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [455/1144]	Time 0.062 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [456/1144]	Time 0.062 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [457/1144]	Time 0.062 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [458/1144]	Time 0.062 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [459/1144]	Time 0.062 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [460/1144]	Time 0.062 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [461/1144]	Time 0.062 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [462/1144]	Time 0.061 (0.071)	Data 0.000 (0.002)	
+test attribute
+Extract Features: [463/1144]	Time 0.062 (0.071)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [464/1144]	Time 0.062 (0.071)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [465/1144]	Time 0.063 (0.071)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [466/1144]	Time 0.063 (0.071)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [467/1144]	Time 0.061 (0.071)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [468/1144]	Time 0.062 (0.071)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [469/1144]	Time 0.062 (0.071)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [470/1144]	Time 0.062 (0.071)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [471/1144]	Time 0.062 (0.071)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [472/1144]	Time 0.062 (0.071)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [473/1144]	Time 0.061 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [474/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [475/1144]	Time 0.061 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [476/1144]	Time 0.061 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [477/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [478/1144]	Time 0.061 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [479/1144]	Time 0.063 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [480/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [481/1144]	Time 0.061 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [482/1144]	Time 0.061 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [483/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [484/1144]	Time 0.061 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [485/1144]	Time 0.063 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [486/1144]	Time 0.061 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [487/1144]	Time 0.061 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [488/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [489/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [490/1144]	Time 0.061 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [491/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [492/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [493/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [494/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [495/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [496/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [497/1144]	Time 0.061 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [498/1144]	Time 0.063 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [499/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [500/1144]	Time 0.061 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [501/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [502/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [503/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [504/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [505/1144]	Time 0.063 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [506/1144]	Time 0.061 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [507/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [508/1144]	Time 0.061 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [509/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [510/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [511/1144]	Time 0.063 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [512/1144]	Time 0.063 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [513/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [514/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [515/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [516/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [517/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [518/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [519/1144]	Time 0.061 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [520/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [521/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [522/1144]	Time 0.061 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [523/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [524/1144]	Time 0.063 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [525/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [526/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [527/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [528/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [529/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [530/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [531/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [532/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [533/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [534/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [535/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [536/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [537/1144]	Time 0.063 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [538/1144]	Time 0.061 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [539/1144]	Time 0.061 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [540/1144]	Time 0.061 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [541/1144]	Time 0.062 (0.070)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [542/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [543/1144]	Time 0.063 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [544/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [545/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [546/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [547/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [548/1144]	Time 0.063 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [549/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [550/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [551/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [552/1144]	Time 0.061 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [553/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [554/1144]	Time 0.063 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [555/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [556/1144]	Time 0.063 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [557/1144]	Time 0.063 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [558/1144]	Time 0.061 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [559/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [560/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [561/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [562/1144]	Time 0.061 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [563/1144]	Time 0.063 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [564/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [565/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [566/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [567/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [568/1144]	Time 0.061 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [569/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [570/1144]	Time 0.063 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [571/1144]	Time 0.063 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [572/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [573/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [574/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [575/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [576/1144]	Time 0.063 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [577/1144]	Time 0.061 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [578/1144]	Time 0.061 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [579/1144]	Time 0.061 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [580/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [581/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [582/1144]	Time 0.063 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [583/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [584/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [585/1144]	Time 0.061 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [586/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [587/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [588/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [589/1144]	Time 0.063 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [590/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [591/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [592/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [593/1144]	Time 0.061 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [594/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [595/1144]	Time 0.063 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [596/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [597/1144]	Time 0.061 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [598/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [599/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [600/1144]	Time 0.061 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [601/1144]	Time 0.061 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [602/1144]	Time 0.063 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [603/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [604/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [605/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [606/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [607/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [608/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [609/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [610/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [611/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [612/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [613/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [614/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [615/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [616/1144]	Time 0.061 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [617/1144]	Time 0.061 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [618/1144]	Time 0.061 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [619/1144]	Time 0.064 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [620/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [621/1144]	Time 0.063 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [622/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [623/1144]	Time 0.063 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [624/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [625/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [626/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [627/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [628/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [629/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [630/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [631/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [632/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [633/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [634/1144]	Time 0.062 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [635/1144]	Time 0.061 (0.069)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [636/1144]	Time 0.063 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [637/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [638/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [639/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [640/1144]	Time 0.063 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [641/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [642/1144]	Time 0.061 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [643/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [644/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [645/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [646/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [647/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [648/1144]	Time 0.061 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [649/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [650/1144]	Time 0.061 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [651/1144]	Time 0.061 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [652/1144]	Time 0.063 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [653/1144]	Time 0.063 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [654/1144]	Time 0.063 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [655/1144]	Time 0.063 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [656/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [657/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [658/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [659/1144]	Time 0.061 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [660/1144]	Time 0.063 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [661/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [662/1144]	Time 0.061 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [663/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [664/1144]	Time 0.061 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [665/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [666/1144]	Time 0.061 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [667/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [668/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [669/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [670/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [671/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [672/1144]	Time 0.061 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [673/1144]	Time 0.063 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [674/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [675/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [676/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [677/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [678/1144]	Time 0.061 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [679/1144]	Time 0.063 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [680/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [681/1144]	Time 0.061 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [682/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [683/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [684/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [685/1144]	Time 0.063 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [686/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [687/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [688/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [689/1144]	Time 0.061 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [690/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [691/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [692/1144]	Time 0.063 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [693/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [694/1144]	Time 0.063 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [695/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [696/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [697/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [698/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [699/1144]	Time 0.063 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [700/1144]	Time 0.061 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [701/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [702/1144]	Time 0.061 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [703/1144]	Time 0.061 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [704/1144]	Time 0.061 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [705/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [706/1144]	Time 0.063 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [707/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [708/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [709/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [710/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [711/1144]	Time 0.064 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [712/1144]	Time 0.063 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [713/1144]	Time 0.061 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [714/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [715/1144]	Time 0.063 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [716/1144]	Time 0.061 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [717/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [718/1144]	Time 0.063 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [719/1144]	Time 0.061 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [720/1144]	Time 0.061 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [721/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [722/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [723/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [724/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [725/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [726/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [727/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [728/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [729/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [730/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [731/1144]	Time 0.063 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [732/1144]	Time 0.061 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [733/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [734/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [735/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [736/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [737/1144]	Time 0.063 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [738/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [739/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [740/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [741/1144]	Time 0.063 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [742/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [743/1144]	Time 0.061 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [744/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [745/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [746/1144]	Time 0.063 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [747/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [748/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [749/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [750/1144]	Time 0.063 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [751/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [752/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [753/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [754/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [755/1144]	Time 0.063 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [756/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [757/1144]	Time 0.063 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [758/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [759/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [760/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [761/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [762/1144]	Time 0.061 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [763/1144]	Time 0.063 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [764/1144]	Time 0.062 (0.068)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [765/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [766/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [767/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [768/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [769/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [770/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [771/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [772/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [773/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [774/1144]	Time 0.065 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [775/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [776/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [777/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [778/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [779/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [780/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [781/1144]	Time 0.061 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [782/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [783/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [784/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [785/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [786/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [787/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [788/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [789/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [790/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [791/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [792/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [793/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [794/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [795/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [796/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [797/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [798/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [799/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [800/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [801/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [802/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [803/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [804/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [805/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [806/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [807/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [808/1144]	Time 0.066 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [809/1144]	Time 0.061 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [810/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [811/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [812/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [813/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [814/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [815/1144]	Time 0.064 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [816/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [817/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [818/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [819/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [820/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [821/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [822/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [823/1144]	Time 0.061 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [824/1144]	Time 0.061 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [825/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [826/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [827/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [828/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [829/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [830/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [831/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [832/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [833/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [834/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [835/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [836/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [837/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [838/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [839/1144]	Time 0.061 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [840/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [841/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [842/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [843/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [844/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [845/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [846/1144]	Time 0.061 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [847/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [848/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [849/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [850/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [851/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [852/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [853/1144]	Time 0.064 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [854/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [855/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [856/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [857/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [858/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [859/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [860/1144]	Time 0.061 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [861/1144]	Time 0.061 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [862/1144]	Time 0.061 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [863/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [864/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [865/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [866/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [867/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [868/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [869/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [870/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [871/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [872/1144]	Time 0.064 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [873/1144]	Time 0.064 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [874/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [875/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [876/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [877/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [878/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [879/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [880/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [881/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [882/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [883/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [884/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [885/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [886/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [887/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [888/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [889/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [890/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [891/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [892/1144]	Time 0.064 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [893/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [894/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [895/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [896/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [897/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [898/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [899/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [900/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [901/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [902/1144]	Time 0.064 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [903/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [904/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [905/1144]	Time 0.064 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [906/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [907/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [908/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [909/1144]	Time 0.061 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [910/1144]	Time 0.061 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [911/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [912/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [913/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [914/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [915/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [916/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [917/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [918/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [919/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [920/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [921/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [922/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [923/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [924/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [925/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [926/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [927/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [928/1144]	Time 0.064 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [929/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [930/1144]	Time 0.064 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [931/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [932/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [933/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [934/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [935/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [936/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [937/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [938/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [939/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [940/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [941/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [942/1144]	Time 0.061 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [943/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [944/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [945/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [946/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [947/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [948/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [949/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [950/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [951/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [952/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [953/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [954/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [955/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [956/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [957/1144]	Time 0.062 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [958/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [959/1144]	Time 0.063 (0.067)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [960/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [961/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [962/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [963/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [964/1144]	Time 0.061 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [965/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [966/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [967/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [968/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [969/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [970/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [971/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [972/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [973/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [974/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [975/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [976/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [977/1144]	Time 0.061 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [978/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [979/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [980/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [981/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [982/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [983/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [984/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [985/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [986/1144]	Time 0.061 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [987/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [988/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [989/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [990/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [991/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [992/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [993/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [994/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [995/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [996/1144]	Time 0.061 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [997/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [998/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [999/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1000/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1001/1144]	Time 0.064 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1002/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1003/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1004/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1005/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1006/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1007/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1008/1144]	Time 0.065 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1009/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1010/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1011/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1012/1144]	Time 0.061 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1013/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1014/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1015/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1016/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1017/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1018/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1019/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1020/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1021/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1022/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1023/1144]	Time 0.066 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1024/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1025/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1026/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1027/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1028/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1029/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1030/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1031/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1032/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1033/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1034/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1035/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1036/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1037/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1038/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1039/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1040/1144]	Time 0.064 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1041/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1042/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1043/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1044/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1045/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1046/1144]	Time 0.064 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1047/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1048/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1049/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1050/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1051/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1052/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1053/1144]	Time 0.065 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1054/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1055/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1056/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1057/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1058/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1059/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1060/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1061/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1062/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1063/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1064/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1065/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1066/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1067/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1068/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1069/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1070/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1071/1144]	Time 0.065 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1072/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1073/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1074/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1075/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1076/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1077/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1078/1144]	Time 0.064 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1079/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1080/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1081/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1082/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1083/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1084/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1085/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1086/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1087/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1088/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1089/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1090/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1091/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1092/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1093/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1094/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1095/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1096/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1097/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1098/1144]	Time 0.064 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1099/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1100/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1101/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1102/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1103/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1104/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1105/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1106/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1107/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1108/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1109/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1110/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1111/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1112/1144]	Time 0.064 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1113/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1114/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1115/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1116/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1117/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1118/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1119/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1120/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1121/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1122/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1123/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1124/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1125/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1126/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1127/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1128/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1129/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1130/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1131/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1132/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1133/1144]	Time 0.063 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1134/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1135/1144]	Time 0.061 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1136/1144]	Time 0.064 (0.066)	Data 0.001 (0.001)	
+test attribute
+Extract Features: [1137/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1138/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1139/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1140/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1141/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1142/1144]	Time 0.061 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1143/1144]	Time 0.062 (0.066)	Data 0.000 (0.001)	
+test attribute
+Extract Features: [1144/1144]	Time 1.881 (0.067)	Data 0.000 (0.001)	

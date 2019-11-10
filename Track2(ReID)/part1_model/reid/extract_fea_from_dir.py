@@ -5,6 +5,7 @@ import os
 root_dir=os.getcwd()
 import sys
 sys.path.append(root_dir)
+print(root_dir)
 import math
 import time
 from collections import OrderedDict
